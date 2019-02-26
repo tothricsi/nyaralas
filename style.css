@@ -1,0 +1,23 @@
+body{
+	background-color: rgb(255,204,112); 
+	color: rgb(1,51,0);
+	font-family: Times New Roman, serif;
+	margin:30px auto;
+	width:70%;
+	font-size:14pt;
+	text-align: justify;
+	border: rgb(1,51,0);
+	
+}
+h1{
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+#felkover{
+	font-weight:bold;
+}
+#kicsi{
+	width: 180px;
+}
